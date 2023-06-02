@@ -1,0 +1,1 @@
+const offerLink = "http://gg.gg/14aw30"
